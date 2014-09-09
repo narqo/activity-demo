@@ -1,0 +1,23 @@
+1. Setup
+
+~~~
+npm i
+~~~
+
+2. Build
+
+~~~
+duo lib/main.js > build/main.js
+~~~
+
+3. Test
+
+~~~
+open test/index.html
+~~~
+
+References:
+
+- http://developer.android.com/guide/components/activities.html
+- http://www.gwtproject.org/articles/mvp-architecture.html
+
